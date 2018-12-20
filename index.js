@@ -3,7 +3,8 @@ var Canvas = require("canvas-prebuilt");
 var fs = require('fs');
 var path = require('path');
 
-
+//by fms 2018
+//
 /**
  * @param config = {
         width: 500 // Image width, type is number.
